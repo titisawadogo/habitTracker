@@ -1,16 +1,3 @@
-# habit_tracker
+Flutter App who tracks habit using Hive localBase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1677824370](https://user-images.githubusercontent.com/38849585/222648095-88940351-4dae-4a24-b22d-30255aff3e1e.png)
