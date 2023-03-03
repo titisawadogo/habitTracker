@@ -1,0 +1,4 @@
+#Fri Mar 03 00:13:06 CST 2023
+base.0=/Users/titi/flutterCode/habit_tracker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
